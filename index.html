@@ -1,1 +1,131 @@
-a
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Panel de Seguimiento</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+  <!-- Estilos principales -->
+  <link rel="stylesheet" href="css/styles.css">
+
+  <!-- Librerías externas -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+</head>
+<body>
+
+  <div class="app">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo-mark" id="logo-initials">I</div>
+        <div class="names">
+          <div class="n1" id="brand-name">Panel de Seguimiento</div>
+          <div class="n2" id="brand-code">—</div>
+        </div>
+      </div>
+
+      <div class="search-box">
+        <i class="fa-solid fa-magnifying-glass" style="font-size:.78rem"></i>
+        <input id="global-search" placeholder="Buscar">
+      </div>
+
+      <div class="nav-group-label">Vista</div>
+      <div class="nav-item active" data-view="objetivos">
+        <span class="ico"><i class="fa-solid fa-bullseye"></i></span> Objetivos
+      </div>
+      <div class="nav-item" data-view="programa">
+        <span class="ico"><i class="fa-solid fa-gauge-high"></i></span> Avance
+      </div>
+      <div class="nav-item" data-view="actividades">
+        <span class="ico"><i class="fa-solid fa-star"></i></span> Tareas
+      </div>
+      <div class="nav-item" data-view="calendario">
+        <span class="ico"><i class="fa-solid fa-calendar-days"></i></span> Calendario
+      </div>
+      <div class="nav-item" data-view="indicadores">
+        <span class="ico"><i class="fa-solid fa-chart-column"></i></span> Indicadores
+      </div>
+
+      <div class="sidebar-bottom">
+        <div class="theme-toggle">
+          <button id="theme-light" title="Claro"><i class="fa-solid fa-sun"></i></button>
+          <button id="theme-dark" title="Oscuro"><i class="fa-solid fa-moon"></i></button>
+        </div>
+        <div class="user-card">
+          <div class="user-avatar">M</div>
+          <div>
+            <div class="user-name">Matías</div>
+            <div class="user-role">Sesión activa</div>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Contenedor Principal -->
+    <main class="main-wrap">
+      <div class="content-pad">
+        <!-- Vista Objetivos -->
+        <section class="view active" id="view-objetivos">
+          <div id="obj-tabs" class="obj-tabs"></div>
+          <div class="obj-header-row">
+            <div id="obj-breadcrumb"></div>
+            <div id="obj-actions" class="obj-actions"></div>
+          </div>
+          <div id="obj-content"></div>
+        </section>
+
+        <!-- Vista Avance / Programa -->
+        <section class="view" id="view-programa">
+          <div style="display:flex; align-items:flex-start; justify-content:space-between; gap:14px; flex-wrap:wrap; margin-bottom:4px">
+            <div>
+              <h1 class="page-title" style="margin-bottom:4px">Avance</h1>
+              <p class="page-sub" style="margin-bottom:0">Vista consolidada de avance por objetivo.</p>
+            </div>
+            <button class="dash-btn" id="pg-dashboard">
+              <i class="fa-solid fa-arrow-up-right-from-square"></i> Ver dashboard
+            </button>
+          </div>
+          <div id="programa-content"></div>
+        </section>
+
+        <!-- Vista Tareas / Actividades -->
+        <section class="view" id="view-actividades">
+          <h1 class="page-title">Tareas</h1>
+          <p class="page-sub">Actividades marcadas con estrella desde su detalle, para dar seguimiento o reportar por separado.</p>
+          <div id="act2-breadcrumb"></div>
+          <div id="act2-content"></div>
+        </section>
+
+        <!-- Vista Calendario -->
+        <section class="view" id="view-calendario">
+          <h1 class="page-title">Calendario</h1>
+          <p class="page-sub">Fechas de inicio y término de las actividades registradas.</p>
+          <div id="cal-content"></div>
+        </section>
+
+        <!-- Vista Indicadores -->
+        <section class="view" id="view-indicadores">
+          <h1 class="page-title">Indicadores</h1>
+          <p class="page-sub">Matriz consolidada de todas las actividades registradas.</p>
+          <div id="ind-content"></div>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <!-- Contenedor de vistas independientes (Reporte y Carta Gantt) -->
+  <div id="report-page"></div>
+
+  <!-- Script principal de la aplicación -->
+  <script src="js/app.js"></script>
+</body>
+</html>

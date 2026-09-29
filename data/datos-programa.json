@@ -1,0 +1,2309 @@
+{
+  "proyecto": {
+    "codigo": "INID240009",
+    "nombre": "Conecta e Innova",
+    "periodo": "2024–2027"
+  },
+  "objetivos": [
+    {
+      "id": "o1",
+      "nombre": "Objetivo 1",
+      "hitos": [
+        {
+          "id": "h1_1",
+          "nombre": "1.1",
+          "actividades": [
+            {
+              "id": "a1_1_1",
+              "nombre": "1.1.2 Implementar el diseño de \"Ventanilla única de servicios de I+D+i+e\"",
+              "responsable": "",
+              "fechaInicio": "2024-10-01",
+              "fechaFin": "2027-04-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Ventanilla Única de Servicios de I+D+i+e implementada y operando como hub centralizado",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se avanzó hasta alcanzar su versión beta final, actualmente operativa como punto centralizado de acceso a los servicios. Queda pendiente el cierre funcional del módulo y su difusión institucional.",
+              "fechaEstimadaTermino": "2027-04-30",
+              "justificacionDesviacion": "No se registran desviaciones para este hito en el período.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 50,
+                  "fechaInicio": "2024-10-01",
+                  "fechaFin": "2027-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_1_2",
+              "nombre": "1.1.3 Incluir los objetivos e indicadores del proyecto dentro de los planes operativos",
+              "responsable": "",
+              "fechaInicio": "2024-10-01",
+              "fechaFin": "2025-03-01",
+              "estado": "Terminado",
+              "destacada": false,
+              "resultadoEsperado": "Objetivos e indicadores del proyecto incorporados en los planes operativos anuales",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Indicadores integrados en planes operativos de la Dirección y en el PEP, asegurando alineación estratégica.",
+              "fechaEstimadaTermino": "2025-03-01",
+              "justificacionDesviacion": "No aplica.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 100,
+                  "fechaInicio": "2024-10-01",
+                  "fechaFin": "2025-03-01",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_1_3",
+              "nombre": "1.1.4 Implementación de un cuadro de mando integral con los principales indicadores de I+D+i+e",
+              "responsable": "",
+              "fechaInicio": "2025-03-01",
+              "fechaFin": "2027-01-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Cuadro de mando integral de I+D+i+e implementado en Power BI, integrado al sistema de información institucional",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se avanzó en optimización de formularios y consolidación de insumos y reportes. Se implementó el Cuadro de Mando Integral y se desarrolló una primera versión del dashboard de indicadores en el sistema de gestión de postulaciones de la DIRITT. Pendiente completar integración y visualización final.",
+              "fechaEstimadaTermino": "2027-01-30",
+              "justificacionDesviacion": "No se registran desviaciones para este hito en el período.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 60,
+                  "fechaInicio": "2025-03-01",
+                  "fechaFin": "2027-01-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_1_4",
+              "nombre": "1.1.5 Implementación de la evaluación unificada de la satisfacción de los servicios, el desempeño de los procesos y planes operativos (KPI)",
+              "responsable": "",
+              "fechaInicio": "2025-03-01",
+              "fechaFin": "2027-08-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Evaluación unificada implementada y operativa con instrumentos y KPI integrados",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se mejoró trazabilidad y formularios digitales que alimentan la evaluación; consolidar instrumentos y KPIs en un esquema unificado y reportable implementación de los OKR.",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "No se registran desviaciones para este hito en el período.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 70,
+                  "fechaInicio": "2025-03-01",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_1_5",
+              "nombre": "1.1.6 Evaluación semestral del grado de avance de los indicadores de I+D+i+e comprometidos en los planes operativos",
+              "responsable": "",
+              "fechaInicio": "2025-03-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Terminado",
+              "destacada": false,
+              "resultadoEsperado": "Informes semestrales emitidos que reportan el avance de los indicadores de I+D+i+e",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se integraron indicadores a planes y se reportan avances del período; se requiere institucionalizar el corte semestral y reportabilidad periódica.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "No se registran desviaciones para este hito en el período.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 100,
+                  "fechaInicio": "2025-03-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h1_2",
+          "nombre": "1.2 · Módulos en el sistema de información institucional Kellun",
+          "actividades": [
+            {
+              "id": "a1_2_1",
+              "nombre": "1.2.1 Levantamiento de requerimientos funcionales de los módulos",
+              "responsable": "",
+              "fechaInicio": "2025-03-01",
+              "fechaFin": "2027-04-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Requerimientos funcionales de los módulos levantados y documentados, como insumo para implementar el cuadro de mando de indicadores",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se avanzó en el levantamiento y documentación de los requerimientos funcionales, definiendo esquema conceptual con dashboard de indicadores, seguimiento técnico, propiedad intelectual y gestión documental. Se entregaron insumos de monitoreo e integración con OKR y se cargó el histórico de proyectos.",
+              "fechaEstimadaTermino": "2027-04-30",
+              "justificacionDesviacion": "Interdependencia con el desarrollo institucional en paralelo que exige alinear definiciones antes de cerrar el documento. Se mantuvo la coordinación con la Unidad de Desarrollo Institucional y la Dirección de Informática para evaluar la capacidad del sistema institucional. Se elaboraron TDR y se inició búsqueda de cotizaciones para contratación externa.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 50,
+                  "fechaInicio": "2025-03-01",
+                  "fechaFin": "2027-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_2_2",
+              "nombre": "1.2.2 Desarrollo de módulos en la plataforma institucional Kellun mediante metodologías ágiles",
+              "responsable": "",
+              "fechaInicio": "2026-09-01",
+              "fechaFin": "2027-07-30",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Módulos del sistema Kellun desarrollados e implementados, entregados de forma iterativa",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se mantuvo coordinación con la Unidad de Desarrollo Institucional y la Dirección de Informática para evaluar la capacidad del sistema institucional de gestión de proyectos de incorporar los requerimientos definidos, resguardando complementariedad e interoperabilidad.",
+              "fechaEstimadaTermino": "2027-07-30",
+              "justificacionDesviacion": "Desarrollo institucional paralelo con funciones similares podría generar solapamientos. Se requiere coordinar contratación de un nuevo desarrollador y evaluar funcionalidades del sistema institucional para complementar soluciones y evitar duplicación de esfuerzos.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 40,
+                  "fechaInicio": "2026-09-01",
+                  "fechaFin": "2027-07-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_2_3",
+              "nombre": "1.2.3 Reporte con los resultados de la implementación de los módulos",
+              "responsable": "",
+              "fechaInicio": "2027-01-01",
+              "fechaFin": "2027-07-30",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Reporte técnico consolidado que documenta la implementación de los módulos Kellun",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se generaron insumos y evidencias para el desarrollo del sistema, incluyendo esquema funcional, integración con OKR y carga del histórico. Pendiente desarrollo e implementación de los módulos.",
+              "fechaEstimadaTermino": "2027-07-30",
+              "justificacionDesviacion": "Dependencia del desarrollo paralelo descrito en 1.2.2, que puede desplazar el hito de cierre del informe.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2027-01-01",
+                  "fechaFin": "2027-07-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h1_3",
+          "nombre": "1.3 · Generar instancias de retroalimentación del quehacer institucional en I+D+i+e",
+          "actividades": [
+            {
+              "id": "a1_3_1",
+              "nombre": "1.3.1 Creación del reglamento de constitución y funcionamiento del Consejo de Innovación y Emprendimiento (Ci+e)",
+              "responsable": "",
+              "fechaInicio": "2025-06-01",
+              "fechaFin": "2027-04-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Reglamento de constitución y funcionamiento del Ci+e elaborado para revisión",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Propuesta de reglamento elaborada. Se retomaron coordinaciones con la Vicerrectoría de Vinculación y Compromiso Público para definir articulación con instancias institucionales existentes y evitar duplicidades.",
+              "fechaEstimadaTermino": "2027-04-30",
+              "justificacionDesviacion": "No aplica para esta actividad. Se planifica abordar durante el segundo semestre la propuesta de reglamento con actores pertinentes.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 70,
+                  "fechaInicio": "2025-06-01",
+                  "fechaFin": "2027-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_3_2",
+              "nombre": "1.3.2 Identificar e invitar a actores públicos y privados a constituir el Ci+e",
+              "responsable": "",
+              "fechaInicio": "2026-04-01",
+              "fechaFin": "2027-04-30",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Actores públicos y privados identificados y formalmente convocados",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se realizó reunión inicial de coordinación y se evalúa articulación del Ci+e con el Consejo Interempresarial UCTemuco y la Mesa de Innovación Regional. La DIRITT mantuvo participación activa en instancias de articulación regional y sectorial.",
+              "fechaEstimadaTermino": "2027-04-30",
+              "justificacionDesviacion": "La definición de la articulación con instancias externas ha retrasado el proceso de invitación y constitución formal del Ci+e. Se proyecta consolidar esta articulación durante el segundo semestre para avanzar en su formalización.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 30,
+                  "fechaInicio": "2026-04-01",
+                  "fechaFin": "2027-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_3_3",
+              "nombre": "1.3.3 Implementación del Consejo de Innovación y Emprendimiento (Ci+e)",
+              "responsable": "",
+              "fechaInicio": "2026-09-01",
+              "fechaFin": "2027-06-30",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Ci+e implementado: integrantes confirmados, acta de instalación y calendario de sesiones en ejecución",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Existe solo una reunión inicial; el Consejo no se ha implementado formalmente (instalación y sesiones aún pendientes).",
+              "fechaEstimadaTermino": "2027-06-30",
+              "justificacionDesviacion": "Demora por evaluación de articulación con instancias externas (Consejo Interempresarial/Mesa Regional). Se requiere fijar calendario de sesiones, acta de instalación y confirmar integrantes.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-09-01",
+                  "fechaFin": "2027-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_3_4",
+              "nombre": "1.3.4 Formalizar la creación y funcionamiento del Ci+e mediante resolución de Vicerrectoría",
+              "responsable": "",
+              "fechaInicio": "2026-09-01",
+              "fechaFin": "2027-07-31",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Resolución de Vicerrectoría que formaliza la creación y funcionamiento del Ci+e emitida y vigente",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Con reglamento ya elaborado, la resolución no ha sido emitida al no estar implementado el Consejo.",
+              "fechaEstimadaTermino": "2027-07-31",
+              "justificacionDesviacion": "Dependencia de la instalación del Consejo y de la decisión sobre su articulación con órganos externos. Se requiere preparar borrador de resolución en paralelo.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-09-01",
+                  "fechaFin": "2027-07-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_3_5",
+              "nombre": "1.3.5 Evaluación semestral del grado de avance de los indicadores de I+D+i+e en planes operativos",
+              "responsable": "",
+              "fechaInicio": "2025-06-01",
+              "fechaFin": "2027-08-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Revisión semestral de indicadores de la dirección",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Avances de indicadores comprometidos en el proyecto InES I+D dentro de la evaluación anual de la dirección.",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "No aplica para esta actividad.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 50,
+                  "fechaInicio": "2025-06-01",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h1_4",
+          "nombre": "1.4 · Formalizar mejoras a la normativa institucional de I+D+i+e",
+          "actividades": [
+            {
+              "id": "a1_4_1",
+              "nombre": "1.4.1 Presentar las propuestas de mejora a la normativa al Consejo de Rectoría",
+              "responsable": "",
+              "fechaInicio": "2025-12-01",
+              "fechaFin": "2027-05-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Propuestas de mejora a la normativa de I+D+i+e presentadas al Consejo de Rectoría",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se reportan avances formales mediante la Resolución VIP N.° 01/2026 y el Decreto de Rectoría N.° 20/2026, que respaldan y formalizan las acciones desarrolladas.",
+              "fechaEstimadaTermino": "2027-05-31",
+              "justificacionDesviacion": "Se deben revisar, corregir y actualizar los reglamentos internos para adecuarlos a las disposiciones de la nueva Ley de Transferencia Tecnológica. Actualizar decretos de propiedad intelectual, EBCT y conflicto de interés.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 80,
+                  "fechaInicio": "2025-12-01",
+                  "fechaFin": "2027-05-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_4_2",
+              "nombre": "1.4.2 Formalizar mejoras a la valoración de actividades académicas en I+D+i+e en la bitácora",
+              "responsable": "",
+              "fechaInicio": "2026-10-01",
+              "fechaFin": "2027-07-31",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Mejoras a la valoración de actividades de I+D+i+e formalizadas en la bitácora académica",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Sin avances en el período; pendiente instalación de la mesa técnica para ajustes de bitácora y validación.",
+              "fechaEstimadaTermino": "2027-07-31",
+              "justificacionDesviacion": "La formalización planificada para meses 6–12 no se ejecutó. Se requiere elaborar borrador de modificación a bitácora y circuito de revisión/validación para el siguiente periodo.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-10-01",
+                  "fechaFin": "2027-07-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_4_3",
+              "nombre": "1.4.3 Formalizar conexión con programas de posgrado para tesis aplicadas y programa \"Innova en tu Tesis\"",
+              "responsable": "",
+              "fechaInicio": "2026-10-01",
+              "fechaFin": "2026-05-31",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Apoyo del programa Innova en tu Tesis para tesis de Posgrado con innovación aplicada",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Sin avances en el período; pendiente instancias de conversación y vinculación con posgrado.",
+              "fechaEstimadaTermino": "2026-05-31",
+              "justificacionDesviacion": "Formalizar durante el segundo semestre una instancia de coordinación con Posgrado para planificar y apoyar la implementación del programa durante el primer semestre de 2027.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-10-01",
+                  "fechaFin": "2026-05-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_4_4",
+              "nombre": "1.4.4 Aprobación de las mejoras a la normativa de I+D+i+e por el Consejo de Rectoría",
+              "responsable": "Dirección DIRITT",
+              "fechaInicio": "2027-01-01",
+              "fechaFin": "2027-09-23",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Nueva normativa de I+D+i+e difundida. Avances formales: Resolución VIP N.° 01/2026 y Decreto de Rectoría N.° 20/2026",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Los instrumentos (Resolución VIP N.° 01/2026 y Decreto de Rectoría N.° 20/2026) evidencian avance desde etapa preliminar hacia formalización de mecanismos institucionales de incentivo, reconocimiento y regulación de actividades de I+D+i+e+c.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "Aprobación comprometida para el período no realizada. Se deben revisar, corregir y actualizar los reglamentos internos conforme a la nueva Ley de Transferencia Tecnológica.",
+              "tareas": [
+                {
+                  "id": "t_144_1",
+                  "t": "Revisión y ajuste jurídico de reglamentos (Ley TT)",
+                  "prioridad": "Completado",
+                  "responsable": "Asesoría Jurídica",
+                  "estado": "Completada",
+                  "fechaInicio": "2027-01-05",
+                  "fechaFin": "2027-03-15",
+                  "distribuible": "https://ejemplo.com/informe-juridico-tt",
+                  "distribuibleTexto": "Informe Jurídico de Adecuación Ley TT",
+                  "notas": "Visado por Dirección Jurídica",
+                  "peso": 25,
+                  "done": true
+                },
+                {
+                  "id": "t_144_2",
+                  "t": "Presentación de propuesta a Consejo de Rectoría",
+                  "prioridad": "Urgente",
+                  "responsable": "Vicerrectoría / DIRITT",
+                  "estado": "En curso",
+                  "fechaInicio": "2027-03-20",
+                  "fechaFin": "2027-05-30",
+                  "distribuible": "https://ejemplo.com/minuta-consejo-rectoria",
+                  "distribuibleTexto": "Minuta Ejecutiva para Consejo",
+                  "notas": "Agendado en tabla de sesión ordinaria",
+                  "peso": 35,
+                  "done": false
+                },
+                {
+                  "id": "t_144_3",
+                  "t": "Emisión de decreto y resolución aprobatoria",
+                  "prioridad": "Prioritario",
+                  "responsable": "Secretaría General",
+                  "estado": "No iniciada",
+                  "fechaInicio": "2027-06-01",
+                  "fechaFin": "2027-07-31",
+                  "distribuible": "",
+                  "distribuibleTexto": "",
+                  "notas": "Requiere firma de Rectoría",
+                  "peso": 25,
+                  "done": false
+                },
+                {
+                  "id": "t_144_4",
+                  "t": "Consolidación de texto final y archivo normativo",
+                  "prioridad": "Secundario",
+                  "responsable": "Equipo DIRITT",
+                  "estado": "No iniciada",
+                  "fechaInicio": "2027-08-01",
+                  "fechaFin": "2027-09-15",
+                  "distribuible": "",
+                  "distribuibleTexto": "",
+                  "notas": "Insumo para actividad 1.4.5 de difusión",
+                  "peso": 15,
+                  "done": false
+                }
+              ],
+              "encargados": [
+                {
+                  "id": "e_144_1",
+                  "tarea": "Coordinación de sesiones y presentación ante Consejo",
+                  "encargado": "Director DIRITT",
+                  "insumos": "Presentación PPT ejecutiva, minuta de acuerdos, decretos previos 2026"
+                },
+                {
+                  "id": "e_144_2",
+                  "tarea": "Redacción técnica y revisión normativa",
+                  "encargado": "Abogado Asesor",
+                  "insumos": "Reglamento PI, reglamento EBCT, marco regulatorio Ley TT"
+                },
+                {
+                  "id": "e_144_3",
+                  "tarea": "Seguimiento administrativo y toma de razón",
+                  "encargado": "Secretaría Técnica DIRITT",
+                  "insumos": "Expediente digital institucional, carpetas de antecedentes"
+                }
+              ],
+              "gruposAsistentes": [
+                {
+                  "id": "g_144_1",
+                  "nombre": "Autoridades Institucionales (Consejo de Rectoría)",
+                  "items": [
+                    { "id": "it_144_1", "nombre": "Rectoría y Vicerrectorías", "cantidad": 5 },
+                    { "id": "it_144_2", "nombre": "Secretario General y Asesoría Jurídica", "cantidad": 3 },
+                    { "id": "it_144_3", "nombre": "Decanos de Facultades", "cantidad": 6 }
+                  ]
+                },
+                {
+                  "id": "g_144_2",
+                  "nombre": "Equipo Técnico y Expositores",
+                  "items": [
+                    { "id": "it_144_4", "nombre": "Equipo de Dirección DIRITT", "cantidad": 4 },
+                    { "id": "it_144_5", "nombre": "Gestores Tecnológicos InES I+D", "cantidad": 3 },
+                    { "id": "it_144_6", "nombre": "Consultores externos de apoyo normativo", "cantidad": 2 }
+                  ]
+                },
+                {
+                  "id": "g_144_3",
+                  "nombre": "Comité Consultivo / Representantes Académicos",
+                  "items": [
+                    { "id": "it_144_7", "nombre": "Directores de Investigación y Posgrado", "cantidad": 4 },
+                    { "id": "it_144_8", "nombre": "Investigadores invitados mesa de validación", "cantidad": 6 }
+                  ]
+                }
+              ],
+              "presupuesto": [
+                {
+                  "id": "p_144_1",
+                  "item": "Asesoría jurídica especializada",
+                  "detalle": "Honorarios consultoría legal externa para adecuación a Ley de Transferencia Tecnológica",
+                  "cantidad": 1,
+                  "costoUnitario": 1800000,
+                  "observaciones": "Boleta de honorarios profesional experto"
+                },
+                {
+                  "id": "p_144_2",
+                  "item": "Servicios de impresión y encuadernación",
+                  "detalle": "Dossier normativo institucional para integrantes del Consejo de Rectoría",
+                  "cantidad": 20,
+                  "costoUnitario": 8500,
+                  "observaciones": "Entrega previa a sesión deliberativa"
+                },
+                {
+                  "id": "p_144_3",
+                  "item": "Cafetería y servicio de sesión",
+                  "detalle": "Coffee break para sesión de trabajo de validación normativa",
+                  "cantidad": 25,
+                  "costoUnitario": 6000,
+                  "observaciones": "Sala de Consejo"
+                },
+                {
+                  "id": "p_144_4",
+                  "item": "Publicación y registro legal",
+                  "detalle": "Gastos de tramitación, publicación oficial interna y difusión administrativa",
+                  "cantidad": 1,
+                  "costoUnitario": 120000,
+                  "observaciones": "Centro de costos DIRITT / Proyecto InES"
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a1_4_5",
+              "nombre": "1.4.5 Difundir ampliamente la nueva normativa de I+D+i+e en la comunidad universitaria",
+              "responsable": "",
+              "fechaInicio": "2027-01-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Publicaciones vía redes sociales, institucionales, consejos de facultades y visitas de scouting",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Sin avances; difusión queda supeditada a la aprobación de la normativa.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "Difusión planificada para el período no ejecutada al no existir norma aprobada. Se requiere preparar plan de comunicaciones para despliegue inmediato una vez aprobadas las normativas.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2027-01-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        }
+      ]
+    },
+    {
+      "id": "o2",
+      "nombre": "Objetivo 2 · Fortalecer cultura y habilidades en I+D+i+e de académicos, estudiantes y profesionales",
+      "hitos": [
+        {
+          "id": "h2_1",
+          "nombre": "2.1 · Programa de formación para académicos/as",
+          "actividades": [
+            {
+              "id": "a2_1_1",
+              "nombre": "2.1.1 Generar llamado y selección de participantes para talleres y cursos",
+              "responsable": "",
+              "fechaInicio": "2024-10-01",
+              "fechaFin": "2027-08-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Convocatoria publicada y participantes seleccionados, con nómina y criterios registrados",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se efectuó la convocatoria y selección de participantes para talleres y cursos.",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "Se debe dar seguimiento a los talleres faltantes para gestionar su ejecución. Se deben realizar nuevas convocatorias.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 50,
+                  "fechaInicio": "2024-10-01",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_1_2",
+              "nombre": "2.1.2 Implementar talleres y cursos: De la investigación básica a la aplicada; Postulación a fondos; Enfoques inter y transdisciplinar",
+              "responsable": "",
+              "fechaInicio": "2025-06-01",
+              "fechaFin": "2027-08-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Ejecución del plan de formación: 2 talleres, 3 talleres postulación a fondos y 1 curso enfoques",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se implementaron 2 talleres de Postulación a fondos; Programa de Formación en Ciencia de Datos e IA; Capacitación formulación proyectos I+D (Ley Incentivo Tributario); Fortalecimiento de Capacidades para Postulación (junio-julio 2026).",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "Fortalecer la participación en talleres, considerando alta carga académica. Flexibilizar convocatorias y gestionar el curso de Enfoques de Investigación Inter y Transdisciplinar.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 40,
+                  "fechaInicio": "2025-06-01",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_1_3",
+              "nombre": "2.1.3 Reporte con la evaluación y alcance de los cursos y talleres",
+              "responsable": "",
+              "fechaInicio": "2025-06-01",
+              "fechaFin": "2027-09-23",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Reporte consolidado de evaluación y alcance (participantes, cobertura y feedback)",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Avance en la elaboración del reporte de evaluación, incorporando retroalimentación de participantes.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "La baja tasa de respuesta a evaluaciones puede afectar representatividad de la muestra. Se mantiene programación flexible para ampliar participación.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 20,
+                  "fechaInicio": "2025-06-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h2_2",
+          "nombre": "2.2 · Programa \"Mujeres y Ciencia\"",
+          "actividades": [
+            {
+              "id": "a2_2_1",
+              "nombre": "2.2.1 Generar llamado y selección de participantes para talleres del programa",
+              "responsable": "",
+              "fechaInicio": "2025-05-01",
+              "fechaFin": "2027-06-01",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Convocatoria publicada y participantes seleccionadas/os",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Diseño y programación de talleres del hito (Prototipado 3D con enfoque de género; cursos en plataforma; modelo de negocios en ejecución).",
+              "fechaEstimadaTermino": "2027-06-01",
+              "justificacionDesviacion": "Dar seguimiento a los talleres pendientes, coordinando gestiones para asegurar su programación y ejecución. Realizar nuevas convocatorias.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 40,
+                  "fechaInicio": "2025-05-01",
+                  "fechaFin": "2027-06-01",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_2_2",
+              "nombre": "2.2.2 Implementar talleres: Postulación a fondos (académicas); Prototipado 3D; Cursos Metodologías de innovación",
+              "responsable": "",
+              "fechaInicio": "2025-01-01",
+              "fechaFin": "2027-08-31",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Ejecución de 2 talleres postulación fondos, 3 talleres Prototipado 3D, y 4 cursos Metodologías de innovación",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Cursos de Metodologías de Innovación (Modelo de Negocios, Design Thinking, Indicadores de Impacto, Storytelling). Taller de Prototipado 3D implementado. Participación en programa Aurora Lab Academy for Skills (ALAS).",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "Dar seguimiento a talleres pendientes, coordinando gestiones para asegurar su programación y ejecución durante el período correspondiente.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 33,
+                  "fechaInicio": "2025-01-01",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_2_3",
+              "nombre": "2.2.3 Reporte con la evaluación y alcance de los cursos y talleres",
+              "responsable": "",
+              "fechaInicio": "2027-01-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Reporte consolidado de evaluación y alcance",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Realizar análisis de las actividades del programa Mujeres y Ciencia para evaluar resultados y generar evidencia.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "Gestionar y sistematizar las evaluaciones realizadas y las correspondientes a futuras actividades del programa para fortalecer seguimiento y medición de impacto.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2027-01-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_2_4",
+              "nombre": "2.2.4 Adherirse al programa de divulgación científica \"Mujeres en la ciencia\" (podcast)",
+              "responsable": "",
+              "fechaInicio": "2026-10-01",
+              "fechaFin": "2027-04-30",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Adhesión al programa con capítulos de 30 min entrevistando a académicas y estudiantes en I+D",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se retomó la coordinación con la Dirección de Comunicaciones e INES de Género para avanzar en la producción del podcast de divulgación científica.",
+              "fechaEstimadaTermino": "2027-04-30",
+              "justificacionDesviacion": "Se proponen actividades complementarias como reels y piezas de divulgación protagonizadas por investigadoras. Se requiere coordinar con Comunicaciones e INES de Género la calendarización de la primera grabación.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 20,
+                  "fechaInicio": "2026-10-01",
+                  "fechaFin": "2027-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h2_3",
+          "nombre": "2.3 · Programa de formación de segundo nivel para gestores VIP",
+          "actividades": [
+            {
+              "id": "a2_3_1",
+              "nombre": "2.3.1 Implementación del programa de formación Systematic Inventive Thinking (SIT)",
+              "responsable": "",
+              "fechaInicio": "2024-12-10",
+              "fechaFin": "2025-01-15",
+              "estado": "Terminado",
+              "destacada": false,
+              "resultadoEsperado": "Programa SIT implementado con académicos/as y profesionales",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Programa SIT implementado; 20 académicos/as y gestores formados.",
+              "fechaEstimadaTermino": "2025-01-15",
+              "justificacionDesviacion": "No aplica.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 100,
+                  "fechaInicio": "2024-12-10",
+                  "fechaFin": "2025-01-15",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_3_2",
+              "nombre": "2.3.2 Implementación curso \"Metodología de evaluación de tecnologías\" y \"Scouting tecnológico\" con Know Hub Chile",
+              "responsable": "",
+              "fechaInicio": "2025-04-01",
+              "fechaFin": "2026-05-01",
+              "estado": "Terminado",
+              "destacada": false,
+              "resultadoEsperado": "Curso con Know Hub Chile implementado para gestores tecnológicos. Se realiza curso con ZENIT",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Capacitación impartida por ZENIT en evaluación de tecnologías, scouting y disclosures. Participación de dos gestoras en la Technology Manager Academy de RedGT.",
+              "fechaEstimadaTermino": "2026-05-01",
+              "justificacionDesviacion": "No aplica.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 100,
+                  "fechaInicio": "2025-04-01",
+                  "fechaFin": "2026-05-01",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_3_3",
+              "nombre": "2.3.3 Implementación curso de metodología de 4 problemas para desafíos empresariales",
+              "responsable": "",
+              "fechaInicio": "2024-12-01",
+              "fechaFin": "2025-01-30",
+              "estado": "Terminado",
+              "destacada": false,
+              "resultadoEsperado": "Curso de Metodología de los 4 Problemas implementado",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Curso ejecutado; 17 gestores y coordinadores participantes de la DIRITT.",
+              "fechaEstimadaTermino": "2025-01-30",
+              "justificacionDesviacion": "No aplica.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 100,
+                  "fechaInicio": "2024-12-01",
+                  "fechaFin": "2025-01-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_3_4",
+              "nombre": "2.3.4 Implementación taller \"Buenas prácticas en Interculturalidad y CTCi\" con proyecto NODO Conexión Sur",
+              "responsable": "",
+              "fechaInicio": "2026-10-01",
+              "fechaFin": "2027-04-30",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Taller de Buenas prácticas en Interculturalidad y CTCi implementado",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "No figura la realización de este taller en el periodo.",
+              "fechaEstimadaTermino": "2027-04-30",
+              "justificacionDesviacion": "No se reportan desviaciones a nivel de hito. Reprogramar con NODO Conexión Sur para ejecución año 2.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-10-01",
+                  "fechaFin": "2027-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h2_4",
+          "nombre": "2.4 · Programa de asesoría y formación dirigido a estudiantes",
+          "actividades": [
+            {
+              "id": "a2_4_1",
+              "nombre": "2.4.1 Difundir el programa de asesoría y formación \"Innova en tu tesis\"",
+              "responsable": "",
+              "fechaInicio": "2025-01-01",
+              "fechaFin": "2027-04-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Programa \"Innova en tu tesis\" difundido a la comunidad estudiantil de pre y posgrado",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "El programa se ejecuta con talleres de Modelo de Negocios y sesiones de Storytelling + Pitch; se evidencia operación y apoyos a postulaciones VIU.",
+              "fechaEstimadaTermino": "2027-04-30",
+              "justificacionDesviacion": "No se observaron desviaciones a nivel del hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 70,
+                  "fechaInicio": "2025-01-01",
+                  "fechaFin": "2027-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_4_2",
+              "nombre": "2.4.2 Evaluación y selección de los participantes para las sesiones de asesoría y talleres del programa de formación",
+              "responsable": "",
+              "fechaInicio": "2025-01-01",
+              "fechaFin": "2027-04-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Evaluación y selección de participantes para asesorías y talleres realizada, con nómina registrada",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Hay actividades ejecutadas con participantes (talleres y apoyos VIU).",
+              "fechaEstimadaTermino": "2027-04-30",
+              "justificacionDesviacion": "No se observaron desviaciones a nivel del hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 70,
+                  "fechaInicio": "2025-01-01",
+                  "fechaFin": "2027-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_4_3",
+              "nombre": "2.4.3 Implementar talleres teóricos y prácticos: Modelo de negocios, indicadores de impacto económico y social y Storytelling + Pitch",
+              "responsable": "",
+              "fechaInicio": "2025-03-01",
+              "fechaFin": "2027-05-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Implementación de talleres Modelo de negocios, indicadores de impacto económico-social y Storytelling + Pitch",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Ejecutados talleres de Modelo de Negocios y sesiones Storytelling + Pitch; el componente \"indicadores de impacto económico-social\" queda por programar.",
+              "fechaEstimadaTermino": "2027-05-31",
+              "justificacionDesviacion": "No se observaron desviaciones a nivel del hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 70,
+                  "fechaInicio": "2025-03-01",
+                  "fechaFin": "2027-05-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_4_4",
+              "nombre": "2.4.4 Asesoría y evaluación de TRL",
+              "responsable": "",
+              "fechaInicio": "2025-03-01",
+              "fechaFin": "2027-05-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Asesoría y evaluación de TRL ejecutada para proyectos/tesis",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se ejecutó un nuevo ciclo del programa con talleres de Problema-Solución, Propuesta de Valor, Modelo de Negocios y Pitch, junto con asesorías técnicas y evaluación TRL. Se seleccionaron dos iniciativas para el programa Follow Up de KnowHub Chile.",
+              "fechaEstimadaTermino": "2027-05-31",
+              "justificacionDesviacion": "No se observaron desviaciones a nivel del hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 70,
+                  "fechaInicio": "2025-03-01",
+                  "fechaFin": "2027-05-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_4_5",
+              "nombre": "2.4.5 Programa Ignition de Know Hub Chile, dirigido al mejor equipo anual del programa \"Innova en tu tesis\"",
+              "responsable": "",
+              "fechaInicio": "2026-01-01",
+              "fechaFin": "2026-04-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Ejecución del Programa Ignition de Know Hub Chile para el mejor equipo anual de \"Innova en tu tesis\"",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "KnowHub brindó retroalimentación experta a equipos. Se postularon 3 propuestas VIU 2026 y un proyecto VIU 2025 al programa Ignition University de KnowHub Chile; fueron seleccionados 2 proyectos.",
+              "fechaEstimadaTermino": "2026-04-30",
+              "justificacionDesviacion": "No se observaron desviaciones a nivel del hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 70,
+                  "fechaInicio": "2026-01-01",
+                  "fechaFin": "2026-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_4_6",
+              "nombre": "2.4.6 Apoyo en la postulación de los proyectos a FONDEF VIU de ANID",
+              "responsable": "",
+              "fechaInicio": "2025-04-01",
+              "fechaFin": "2027-05-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Apoyo en la postulación de proyectos al FONDEF VIU de ANID entregado",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se apoyó la postulación de 6 proyectos VIU, con 2 adjudicados; además, apoyo técnico con grabación profesional de pitch para la formulación.",
+              "fechaEstimadaTermino": "2027-05-31",
+              "justificacionDesviacion": "No se observaron desviaciones a nivel del hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 70,
+                  "fechaInicio": "2025-04-01",
+                  "fechaFin": "2027-05-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_4_7",
+              "nombre": "2.4.7 Reporte con la evaluación y alcance del programa \"Innova en tu Tesis\"",
+              "responsable": "",
+              "fechaInicio": "2025-06-01",
+              "fechaFin": "2027-06-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Reporte con la evaluación y alcance del programa \"Innova en tu tesis\" emitido",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se cuenta con evidencias y medios de verificación; falta consolidar la evaluación integral (cobertura, satisfacción, resultados).",
+              "fechaEstimadaTermino": "2027-06-30",
+              "justificacionDesviacion": "No se observaron desviaciones a nivel del hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 40,
+                  "fechaInicio": "2025-06-01",
+                  "fechaFin": "2027-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h2_5",
+          "nombre": "2.5 · Generar instancias de cultura de la innovación en la universidad",
+          "actividades": [
+            {
+              "id": "a2_5_1",
+              "nombre": "2.5.1 Presentación de proyectos y tesis de I+D en las jornadas anuales de investigación",
+              "responsable": "",
+              "fechaInicio": "2024-12-18",
+              "fechaFin": "2027-08-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Presentación de proyectos y tesis de I+D en jornadas anuales con participación de académicos y estudiantes de posgrado",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se presentaron 12 proyectos de I+D con informes de retroalimentación y se difundió el proyecto InES I+D en las Jornadas Anuales de Investigación.",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "No se observan desviaciones para el hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 50,
+                  "fechaInicio": "2024-12-18",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_5_2",
+              "nombre": "2.5.2 Feria de desafíos de innovación en base a prototipos desarrollada por estudiantes de pre y posgrado",
+              "responsable": "",
+              "fechaInicio": "2025-06-01",
+              "fechaFin": "2027-08-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Feria de desafíos de innovación con prototipos de estudiantes implementada",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se participó en la Feria de Innovación TEC-UCT, el Rally Latinoamericano de Innovación (con más de 80 participantes) y se realizó una feria piloto con la carrera de Terapia Ocupacional apoyada por DIRITT.",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "No se observan desviaciones para el hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 70,
+                  "fechaInicio": "2025-06-01",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a2_5_3",
+              "nombre": "2.5.3 Realización de seminarios anuales sobre temáticas de I+D+i+e",
+              "responsable": "",
+              "fechaInicio": "2025-06-01",
+              "fechaFin": "2027-08-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Seminarios anuales de I+D+i+e realizados con empresas, instituciones e investigadores",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se realizó el seminario anual de propiedad intelectual (50 participantes) y la presentación de 12 proyectos de I+D ante Follow Up de KnowHub. Reunió a cerca de 100 participantes.",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "No se observan desviaciones para el hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 60,
+                  "fechaInicio": "2025-06-01",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        }
+      ]
+    },
+    {
+      "id": "o3",
+      "nombre": "Objetivo 3 · Implementar mecanismos para fomentar el desarrollo de tecnologías en etapas tempranas",
+      "hitos": [
+        {
+          "id": "h3_1",
+          "nombre": "3.1 · Fondo interno universidad y empresa para conexión y proyectos asociativos en I+D+i+e",
+          "actividades": [
+            {
+              "id": "a3_1_1",
+              "nombre": "3.1.1 Identificación de empresas con necesidades posibles de abordar según el scouting de capacidades institucionales",
+              "responsable": "",
+              "fechaInicio": "2025-01-01",
+              "fechaFin": "2027-06-30",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Empresas e instituciones con necesidades identificadas y priorizadas según el scouting de capacidades institucionales",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se lanzó el Fondo Universidad–Empresa y se sostuvieron reuniones con empresas productivas de la región. Se proyecta realizar un nuevo proceso de scouting durante 2026–2027.",
+              "fechaEstimadaTermino": "2027-06-30",
+              "justificacionDesviacion": "Los retrasos se concentran en cambios de actividades y lineamientos definidos por la Dirección. Se dará continuidad al scouting y levantamiento de necesidades durante 2026-2027.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 30,
+                  "fechaInicio": "2025-01-01",
+                  "fechaFin": "2027-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_1_2",
+              "nombre": "3.1.2 Difusión, lanzamiento y selección de los proyectos \"Universidad y Empresa\"",
+              "responsable": "",
+              "fechaInicio": "2025-10-01",
+              "fechaFin": "2027-03-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Fondo \"Universidad y Empresa\" difundido y lanzado, con proyectos seleccionados para ejecución",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se lanzó el fondo U–E; se adjudicaron 4 proyectos colaborativos con empresas de distintos sectores.",
+              "fechaEstimadaTermino": "2027-03-31",
+              "justificacionDesviacion": "Se proyecta reabrir el Fondo durante 2027 con nueva difusión, lanzamiento y adjudicación.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 60,
+                  "fechaInicio": "2025-10-01",
+                  "fechaFin": "2027-03-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_1_3",
+              "nombre": "3.1.3 Implementación de los proyectos universidad-empresa y estancia corta en la empresa",
+              "responsable": "",
+              "fechaInicio": "2025-11-01",
+              "fechaFin": "2027-06-30",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Proyectos Universidad–Empresa implementados con estancias cortas en la empresa",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Recién adjudicados a principios de agosto 2026; no se iniciaron estancias durante el período.",
+              "fechaEstimadaTermino": "2027-06-30",
+              "justificacionDesviacion": "La postergación del lanzamiento y adjudicación del fondo hasta agosto impidió iniciar oportunamente esta instancia.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2025-11-01",
+                  "fechaFin": "2027-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_1_4",
+              "nombre": "3.1.4 Seguimiento del avance de cada proyecto \"Universidad y Empresa\" seleccionado",
+              "responsable": "",
+              "fechaInicio": "2025-11-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Seguimiento sistemático del avance de cada proyecto Universidad–Empresa",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Sin seguimiento; los proyectos fueron adjudicados a principios de agosto 2026.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "La postergación del lanzamiento y adjudicación del fondo impidió iniciar seguimiento durante el período.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2025-11-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_1_5",
+              "nombre": "3.1.5 Informes de resultado de la estancia",
+              "responsable": "",
+              "fechaInicio": "2026-10-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Informes de resultados de la estancia emitidos",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Sin informes, al no haberse ejecutado estancias durante el período.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "La postergación del lanzamiento y adjudicación impidió la ejecución de estancias.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-10-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h3_2",
+          "nombre": "3.2 · Asesoría y acompañamiento a los proyectos universidad-empresa",
+          "actividades": [
+            {
+              "id": "a3_2_1",
+              "nombre": "3.2.1 Selección de proyectos \"Universidad y Empresa\" con potencial de ser resueltos por las capacidades institucionales",
+              "responsable": "",
+              "fechaInicio": "2025-10-01",
+              "fechaFin": "2027-06-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Proyectos con potencial de resolución institucional seleccionados",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se implementó la primera convocatoria del Fondo Universidad–Empresa, con 4 proyectos adjudicados. Se asignaron gestores de proyectos y gestores tecnológicos para el acompañamiento.",
+              "fechaEstimadaTermino": "2027-06-30",
+              "justificacionDesviacion": "No se reportan desviaciones para el hito. Se inició acompañamiento con asignación de gestores, reuniones de inicio y orientación técnica.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 60,
+                  "fechaInicio": "2025-10-01",
+                  "fechaFin": "2027-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_2_2",
+              "nombre": "3.2.2 Aplicación de la metodología 4 problemas entre empresa, académicos y DIRITT",
+              "responsable": "",
+              "fechaInicio": "2026-04-01",
+              "fechaFin": "2027-06-30",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Aplicación de la metodología 4 problemas ejecutada",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se realizó intervención en sesión online guiada por New Genesis; la metodología fue incorporada como herramienta de seguimiento para los proyectos Universidad–Empresa.",
+              "fechaEstimadaTermino": "2027-06-30",
+              "justificacionDesviacion": "Ligada al retraso del acompañamiento directo. Se planifican reuniones preliminares para ejecutar la metodología con las empresas.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 10,
+                  "fechaInicio": "2026-04-01",
+                  "fechaFin": "2027-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_2_3",
+              "nombre": "3.2.3 Selección de problemas abordables vía PDC, PMV, investigación por encargo o asistencia técnica",
+              "responsable": "",
+              "fechaInicio": "2026-12-01",
+              "fechaFin": "2027-06-30",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Problemas priorizados para abordaje vía PDC, PMV u otra modalidad",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "La metodología fue incorporada como herramienta de seguimiento, pero aún no se logra concretar la priorización de problemas y sus vías de solución.",
+              "fechaEstimadaTermino": "2027-06-30",
+              "justificacionDesviacion": "Dependencia del acompañamiento para cerrar priorizaciones y problemáticas.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-12-01",
+                  "fechaFin": "2027-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_2_4",
+              "nombre": "3.2.4 Negociación y firma de contratos tecnológicos con empresas",
+              "responsable": "",
+              "fechaInicio": "2026-12-01",
+              "fechaFin": "2027-06-30",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Contratos tecnológicos negociados y firmados con empresas",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "No se registran contratos firmados en el período; Fondo Universidad–Empresa recién iniciando ejecución.",
+              "fechaEstimadaTermino": "2027-06-30",
+              "justificacionDesviacion": "El retraso en la adjudicación ha postergado el inicio del acompañamiento y las negociaciones contractuales.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-12-01",
+                  "fechaFin": "2027-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_2_5",
+              "nombre": "3.2.5 Seguimiento de contratos tecnológicos y proyectos I+D+i+e postulados a fondos externos",
+              "responsable": "",
+              "fechaInicio": "2027-01-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Seguimiento de contratos tecnológicos y de proyectos I+D+i+e asociativos",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "No se ha realizado seguimiento; los proyectos se encuentran recién iniciando ejecución.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "El retraso en la adjudicación ha postergado el inicio del acompañamiento.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2027-01-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_2_6",
+              "nombre": "3.2.6 Evaluación de los resultados y alcance del fondo",
+              "responsable": "",
+              "fechaInicio": "2027-01-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Evaluación de los resultados y alcance del fondo realizada",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Aún no hay evaluación consolidada; existen evidencias parciales que servirán de base.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "Depende del cierre de actividades 3.2.1–3.2.5.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2027-01-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h3_3",
+          "nombre": "3.3 · Oferta integral de fondos internos concursables para aceleración de tecnologías",
+          "actividades": [
+            {
+              "id": "a3_3_1",
+              "nombre": "3.3.1 Diseño de la oferta integral de fondos internos concursables con criterios de paridad de género",
+              "responsable": "",
+              "fechaInicio": "2025-03-01",
+              "fechaFin": "2025-06-01",
+              "estado": "Terminado",
+              "destacada": false,
+              "resultadoEsperado": "Oferta integral de fondos internos diseñada, incluyendo criterios de paridad de género",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Oferta integral de fondos internos para aceleración tecnológica dirigida a académicos/as diseñada y aprobada.",
+              "fechaEstimadaTermino": "2025-06-01",
+              "justificacionDesviacion": "No aplica.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 100,
+                  "fechaInicio": "2025-03-01",
+                  "fechaFin": "2025-06-01",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_3_2",
+              "nombre": "3.3.2 Difusión, lanzamiento y selección de los proyectos",
+              "responsable": "",
+              "fechaInicio": "2025-05-30",
+              "fechaFin": "2027-04-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Fondos difundidos y lanzados, con proyectos seleccionados para ejecución",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se difundió el Fondo PDC (8 postulaciones, 3 adjudicados en 2025). Se dio continuidad a convocatorias PMV y PDC, alcanzando 6 proyectos seleccionados en total.",
+              "fechaEstimadaTermino": "2027-04-30",
+              "justificacionDesviacion": "No se registran desviaciones para el hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 50,
+                  "fechaInicio": "2025-05-30",
+                  "fechaFin": "2027-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_3_3",
+              "nombre": "3.3.3 Implementación de los fondos internos concursables: Fondo PDC (TRL ≥ 3) y Fondo PMV (TRL 4-5)",
+              "responsable": "",
+              "fechaInicio": "2025-08-01",
+              "fechaFin": "2027-05-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Fondos PDC y PMV implementados",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Fondo PMV: 3 postulaciones, 2 adjudicados (mayo 2026). Fondo PDC 2026: 9 postulaciones, 4 adjudicados (agosto 2026). Tras adjudicación se asignaron gestores de proyectos y gestores tecnológicos.",
+              "fechaEstimadaTermino": "2027-05-31",
+              "justificacionDesviacion": "No se registran desviaciones para el hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 50,
+                  "fechaInicio": "2025-08-01",
+                  "fechaFin": "2027-05-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_3_4",
+              "nombre": "3.3.4 Seguimiento bimensual del avance de cada proyecto seleccionado",
+              "responsable": "",
+              "fechaInicio": "2025-09-01",
+              "fechaFin": "2027-09-23",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Seguimiento bimensual de cada proyecto en ejecución realizado",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se asignaron gestores de proyectos y gestores tecnológicos. Se realizan reuniones periódicas de monitoreo y actas de seguimiento con tablero de indicadores por instrumento.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "No se registran desviaciones para el hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 50,
+                  "fechaInicio": "2025-09-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_3_5",
+              "nombre": "3.3.5 Evaluación de los resultados y alcance del fondo",
+              "responsable": "",
+              "fechaInicio": "2025-10-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Evaluación de los resultados y alcance del/los fondo(s) emitida",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "La evaluación final se realizará tras la ejecución y seguimiento de los proyectos adjudicados.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "No se registran desviaciones. El fondo aún no tiene resultados para evaluar.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2025-10-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h3_4",
+          "nombre": "3.4 · Piloto para el Laboratorio de Innovación Social y Sustentabilidad (LISS)",
+          "actividades": [
+            {
+              "id": "a3_4_1",
+              "nombre": "3.4.1 Finalizar el diseño de los servicios del LISS con la asesoría de la Universidad Católica Silva Henríquez",
+              "responsable": "",
+              "fechaInicio": "2026-01-01",
+              "fechaFin": "2027-03-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Diseño de los servicios del LISS finalizado con la asesoría de la UCSH",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se consolidó la estructura de funcionamiento del LISS con cartera de servicios y hoja de ruta. En junio 2026 se realizó reunión de trabajo con la UCSH para intercambiar experiencias. Se acordó avanzar en colaboración y visita técnica al Living Lab de la UCSH.",
+              "fechaEstimadaTermino": "2027-03-31",
+              "justificacionDesviacion": "No se registran desviaciones a nivel del hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 83,
+                  "fechaInicio": "2026-01-01",
+                  "fechaFin": "2027-03-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_4_2",
+              "nombre": "3.4.2 Implementar los servicios del LISS",
+              "responsable": "",
+              "fechaInicio": "2025-06-01",
+              "fechaFin": "2027-06-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Servicios del LISS implementados y en operación",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Avances significativos: cursos autoinstruccionales y presenciales, asesorías a proyectos, lanzamiento de FIS 2025 y 2026. Servicios diseñados con hoja de ruta; implementación en proceso.",
+              "fechaEstimadaTermino": "2027-06-30",
+              "justificacionDesviacion": "No se registran desviaciones a nivel del hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 83,
+                  "fechaInicio": "2025-06-01",
+                  "fechaFin": "2027-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_4_3",
+              "nombre": "3.4.3 Diseñar e implementar el Fondo de Innovación en Agua y RRSS en conjunto con AMTL",
+              "responsable": "",
+              "fechaInicio": "2026-10-01",
+              "fechaFin": "2027-03-31",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Despliegue de desafíos de innovación abierta en gestión de agua y residuos junto a AMTL",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se avanzó en el diseño del Fondo, elaborando la Ficha de Desafío Territorial y las bases de la convocatoria, sustentadas en un diagnóstico previo de problemáticas territoriales.",
+              "fechaEstimadaTermino": "2027-03-31",
+              "justificacionDesviacion": "La elaboración de las bases y la coordinación con AMTL requirieron más tiempo del previsto; se proyecta lanzar la convocatoria en el siguiente período.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 30,
+                  "fechaInicio": "2026-10-01",
+                  "fechaFin": "2027-03-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_4_4",
+              "nombre": "3.4.4 Formación de metodologías pro innovación y formulación de proyectos para gestores de municipios (AMTL)",
+              "responsable": "",
+              "fechaInicio": "2026-01-01",
+              "fechaFin": "2027-03-31",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Formación impartida a gestores de la AMTL en metodologías de innovación y formulación de proyectos",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se realizaron instancias de formación para gestores municipales de la AMTL en temáticas de innovación y formulación de proyectos, en el marco del piloto del LISS.",
+              "fechaEstimadaTermino": "2027-03-31",
+              "justificacionDesviacion": "El avance depende de la coordinación con AMTL y la disponibilidad de los gestores municipales.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 30,
+                  "fechaInicio": "2026-01-01",
+                  "fechaFin": "2027-03-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_4_5",
+              "nombre": "3.4.5 Presentación de proyectos de I+D+i+e en conjunto con la AMTL en temáticas priorizadas",
+              "responsable": "",
+              "fechaInicio": "2027-04-01",
+              "fechaFin": "2027-05-30",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Proyectos de I+D+i+e presentados en conjunto con la AMTL",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Actividad programada para el año 3; depende de los resultados del fondo y la formación previa.",
+              "fechaEstimadaTermino": "2027-05-30",
+              "justificacionDesviacion": "Sin desviaciones; actividad programada para períodos posteriores.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2027-04-01",
+                  "fechaFin": "2027-05-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h3_5",
+          "nombre": "3.5 · Fondo interno concursable de innovación social",
+          "actividades": [
+            {
+              "id": "a3_5_1",
+              "nombre": "3.5.1 Diseño del fondo interno de \"Innovación Social\" con criterio de paridad de género",
+              "responsable": "",
+              "fechaInicio": "2025-01-01",
+              "fechaFin": "2025-06-30",
+              "estado": "Terminado",
+              "destacada": false,
+              "resultadoEsperado": "Fondo de Innovación Social diseñado con criterios de evaluación de paridad de género",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Fondo de Innovación Social (FIS) diseñado, incluyendo bases, criterios de evaluación y parámetros de paridad de género.",
+              "fechaEstimadaTermino": "2025-06-30",
+              "justificacionDesviacion": "No aplica.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 100,
+                  "fechaInicio": "2025-01-01",
+                  "fechaFin": "2025-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_5_2",
+              "nombre": "3.5.2 Difusión, lanzamiento, selección de los proyectos",
+              "responsable": "",
+              "fechaInicio": "2025-07-01",
+              "fechaFin": "2027-04-30",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "FIS difundido y lanzado, con proyectos seleccionados",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se difundió y lanzó la convocatoria del FIS 2025 y 2026, con proyectos seleccionados y en ejecución.",
+              "fechaEstimadaTermino": "2027-04-30",
+              "justificacionDesviacion": "No se registran desviaciones para el hito.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 50,
+                  "fechaInicio": "2025-07-01",
+                  "fechaFin": "2027-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_5_3",
+              "nombre": "3.5.3 Formar a integrantes de la comunidad asociada al proyecto adjudicado en innovación y emprendimiento social",
+              "responsable": "",
+              "fechaInicio": "2026-10-01",
+              "fechaFin": "2027-06-30",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Formación impartida por el LISS a la comunidad del proyecto adjudicado",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Sin formación específica en el período; se ejecutará después del seguimiento de los proyectos según lo planificado.",
+              "fechaEstimadaTermino": "2027-06-30",
+              "justificacionDesviacion": "No aplican desviaciones; depende de la adjudicación de proyectos.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-10-01",
+                  "fechaFin": "2027-06-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_5_4",
+              "nombre": "3.5.4 Seguimiento mensual del avance de los proyectos seleccionados",
+              "responsable": "",
+              "fechaInicio": "2025-05-01",
+              "fechaFin": "2027-09-23",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Seguimiento mensual de proyectos con reportes de progreso",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se realizaron reuniones de seguimiento, acuerdos de confidencialidad y monitoreo técnico mediante gestores de proyectos y gestores tecnológicos.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "No se registran desviaciones específicas.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 30,
+                  "fechaInicio": "2025-05-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a3_5_5",
+              "nombre": "3.5.5 Evaluación de los resultados y alcance del fondo",
+              "responsable": "",
+              "fechaInicio": "2026-11-01",
+              "fechaFin": "2027-08-31",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Evaluación final de resultados y alcance del fondo emitida",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "La evaluación final se realiza posterior a la ejecución de los proyectos.",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "Sin desviaciones; el fondo aún no tiene resultados para evaluar.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-11-01",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        }
+      ]
+    },
+    {
+      "id": "o4",
+      "nombre": "Objetivo 4 · Implementar un modelo de vinculación de la I+D+i+e con empresas e instituciones",
+      "hitos": [
+        {
+          "id": "h4_1",
+          "nombre": "4.1 · Modelo de vinculación en I+D+i+e con énfasis en market pull & technology push",
+          "actividades": [
+            {
+              "id": "a4_1_1",
+              "nombre": "4.1.1 Finalización del modelo vinculación en el ámbito de la I+D+i+e",
+              "responsable": "",
+              "fechaInicio": "2026-08-01",
+              "fechaFin": "2027-05-31",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Modelo de vinculación de I+D+i+e finalizado y documentado",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se avanzó en una definición metodológica más estructurada, mediante el levantamiento de mecanismos de vinculación, redes de contacto, formas de asociatividad y oportunidades de mejora. Se elaboraron TDR para consultoría especializada. El modelo aún no se encuentra finalizado.",
+              "fechaEstimadaTermino": "2027-05-31",
+              "justificacionDesviacion": "Retraso respecto de la implementación del modelo formal; el período se enfocó en planificación y diseño. Se priorizará el cierre y validación del documento para acelerar la puesta en marcha.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 35,
+                  "fechaInicio": "2026-08-01",
+                  "fechaFin": "2027-05-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a4_1_2",
+              "nombre": "4.1.2 Implementación del modelo de vinculación en el ámbito de la I+D+i+e",
+              "responsable": "",
+              "fechaInicio": "2026-10-01",
+              "fechaFin": "2027-05-31",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Modelo de vinculación implementado en la institución",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "La puesta en marcha formal presenta un desfase. La DIRITT mantiene activos mecanismos de vinculación existentes y participa en distintas redes y mesas de articulación.",
+              "fechaEstimadaTermino": "2027-05-31",
+              "justificacionDesviacion": "Retraso en la implementación formal del modelo durante el período. Se usará el documento de mecanismos como hoja de ruta para despliegue por fases.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2026-10-01",
+                  "fechaFin": "2027-05-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a4_1_3",
+              "nombre": "4.1.3 Evaluación de los resultados de las vinculaciones y sus alcances",
+              "responsable": "",
+              "fechaInicio": "2027-01-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Evaluación de los resultados de las vinculaciones y de sus alcances realizada",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "No hay evaluación en el período porque la implementación del modelo aún no se ejecuta. Se generaron insumos previos (documento y metodología).",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "Dependencia del despliegue del modelo; el retraso en 4.1.2 postergó la evaluación.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2027-01-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h4_2",
+          "nombre": "4.2 · Plan estratégico de comunicaciones de la I+D+i+e",
+          "actividades": [
+            {
+              "id": "a4_2_1",
+              "nombre": "4.2.1 Diseño del plan estratégico de comunicaciones en función de los Stakeholders y planes operativos (OKR)",
+              "responsable": "",
+              "fechaInicio": "2025-05-01",
+              "fechaFin": "2026-04-30",
+              "estado": "Terminado",
+              "destacada": false,
+              "resultadoEsperado": "Plan estratégico de comunicaciones diseñado, alineado a OKR",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Plan diseñado con mapa de stakeholders, objetivos, mensajes clave, canales y calendario editorial. Se desarrollaron lineamientos gráficos, plantillas, cápsulas audiovisuales y un boletín semestral.",
+              "fechaEstimadaTermino": "2026-04-30",
+              "justificacionDesviacion": "No aplica.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 100,
+                  "fechaInicio": "2025-05-01",
+                  "fechaFin": "2026-04-30",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a4_2_2",
+              "nombre": "4.2.2 Implementación del plan estratégico de comunicaciones",
+              "responsable": "",
+              "fechaInicio": "2025-06-01",
+              "fechaFin": "2027-09-23",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Plan estratégico de comunicaciones implementado en la institución",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Ejecución de piezas y acciones: notas y posts institucionales, coordinación con medios regionales, difusión de actividades I+D+i+e. Se inició la producción de cápsulas audiovisuales informativas y un boletín semestral.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "Carga operativa en períodos de alta carga retrasa algunas publicaciones. Se ajustará calendario editorial a ventanas de menor carga.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 30,
+                  "fechaInicio": "2025-06-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a4_2_3",
+              "nombre": "4.2.3 Implementar mejoras a la web de la DIRITT",
+              "responsable": "",
+              "fechaInicio": "2025-10-30",
+              "fechaFin": "2027-09-23",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Mejoras a la web de la DIRITT implementadas",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Avances en estructura y contenidos: secciones para servicios I+D+i+e, noticias del proyecto y articulación con Ventanilla Única. Las mejoras fueron definidas a nivel de propuesta; falta implementación técnica y publicación.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "Dependencia de terceros (TI/diseño) y priorización institucional de otras tareas web. Se programarán bloques quincenales con TI para avanzar por iteraciones.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 70,
+                  "fechaInicio": "2025-10-30",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a4_2_4",
+              "nombre": "4.2.4 Evaluación de resultados de la implementación del plan estratégico de comunicaciones",
+              "responsable": "",
+              "fechaInicio": "2026-10-01",
+              "fechaFin": "2027-08-31",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Evaluación de resultados del plan de comunicaciones realizada",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Definidos KPIs de comunicación (alcance, impresiones, visitas, leads). Se realiza seguimiento periódico de métricas con tendencia positiva en visibilidad de la DIRITT.",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "Falta de línea base histórica en algunos canales; integración parcial con analíticas web. Se fijará línea base por canal con corte trimestral.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 33,
+                  "fechaInicio": "2026-10-01",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        },
+        {
+          "id": "h4_3",
+          "nombre": "4.3 · Visitas a empresas e instituciones por parte de la DIRITT y académicos",
+          "actividades": [
+            {
+              "id": "a4_3_1",
+              "nombre": "4.3.1 Identificación de empresas e instituciones con necesidades y posibilidades de sinergia según scouting",
+              "responsable": "",
+              "fechaInicio": "2025-10-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Empresas e instituciones con necesidades identificadas y con posibilidades de sinergia",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se fortaleció la vinculación con empresas (Araucanía Digital, FIA, Corfo, CiTA, Eagon Lautaro, Assa Abloy). La Mesa Regional de Innovación permitió levantar capacidades y desafíos bajo enfoque market pull. A nivel internacional: Politécnico Grancolombiano y convenio CETENE (Brasil).",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "No se reportan desviaciones específicas para el hito. Se realizará mapa de actores actualizado y priorización por pertinencia tecnológica.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 25,
+                  "fechaInicio": "2025-10-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a4_3_2",
+              "nombre": "4.3.2 Contacto con empresas y laboratorios y coordinación de reuniones y visitas en terreno",
+              "responsable": "",
+              "fechaInicio": "2025-10-01",
+              "fechaFin": "2027-08-31",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Contactos gestionados y reuniones/visitas en terreno coordinadas",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se gestionaron contactos en Lab to Market, Agro Horizon Arica, Dual Hub Summit, Congreso Futuro 2025, AgriFood Temuco, Nodo de Innovación Pública. Visitas a ZIPOFOREX, ROSEN y Hendrix Genetics.",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "No se reportan desviaciones específicas. Se formalizará agenda de visitas con fechas, responsables y registro de actas.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 20,
+                  "fechaInicio": "2025-10-01",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a4_3_3",
+              "nombre": "4.3.3 Reuniones presenciales y remotas con empresas y laboratorios",
+              "responsable": "",
+              "fechaInicio": "2024-11-30",
+              "fechaFin": "2027-08-31",
+              "estado": "Retrasada",
+              "destacada": false,
+              "resultadoEsperado": "Reuniones presenciales y remotas realizadas con empresas y laboratorios",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se avanzó en procesos de convenio con Eagon, Assa Abloy, ROSEN y Hendrix Genetics.",
+              "fechaEstimadaTermino": "2027-08-31",
+              "justificacionDesviacion": "No se reportan desviaciones específicas. Se estandarizarán minutas y responsables por acuerdos.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 11,
+                  "fechaInicio": "2024-11-30",
+                  "fechaFin": "2027-08-31",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a4_3_4",
+              "nombre": "4.3.4 Sistematización de acuerdos y lineamientos de potenciales contratos tecnológicos",
+              "responsable": "",
+              "fechaInicio": "2026-10-01",
+              "fechaFin": "2027-09-23",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Acuerdos y lineamientos de potenciales contratos tecnológicos sistematizados",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se avanzó hacia convenios (CETENE, Politécnico Grancolombiano). Se trabaja en sistematización de contactos y estandarización de contratos de I+D. Se revisan lineamientos del Decreto de Rectoría 2026.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "No se reportan desviaciones. Se reunirán lineamientos para diferenciar asistencia técnica de contratos de I+D.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 30,
+                  "fechaInicio": "2026-10-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a4_3_5",
+              "nombre": "4.3.5 Asistencias a ferias y giras tecnológicas",
+              "responsable": "",
+              "fechaInicio": "2024-12-01",
+              "fechaFin": "2027-09-23",
+              "estado": "En curso",
+              "destacada": false,
+              "resultadoEsperado": "Asistencias a ferias y giras tecnológicas coherentes con el scouting institucional",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Participación consolidada en Lab to Market, Agro Horizon Arica, Dual Hub Summit, Congreso Futuro 2025, AgriFood Temuco, Nodo de Innovación Pública, Encuentro Nacional InES I+D, \"El Futuro de las OTL\" y Segunda Escuela de Futuros + Horizontes de Innovación.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "No se reportan desviaciones.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 80,
+                  "fechaInicio": "2024-12-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            },
+            {
+              "id": "a4_3_6",
+              "nombre": "4.3.6 Evaluación de las visitas y su alcance",
+              "responsable": "",
+              "fechaInicio": "2025-02-01",
+              "fechaFin": "2027-09-23",
+              "estado": "Sin movimiento",
+              "destacada": false,
+              "resultadoEsperado": "Evaluación emitida sobre las visitas, compromisos y su alcance",
+              "anioReportado": "Año 2 (ago 2025 – ago 2026)",
+              "descripcionAvance": "Se cuenta con evidencia consolidada de contactos, alianzas, convenios y asistencia a eventos como insumo para elaborar la evaluación de alcance.",
+              "fechaEstimadaTermino": "2027-09-23",
+              "justificacionDesviacion": "No se reportan desviaciones. Se definirán KPIs de visitas y tablero de control trimestral.",
+              "tareas": [
+                {
+                  "id": "t1",
+                  "t": "Avance registrado en Carta Gantt",
+                  "done": true,
+                  "peso": 0,
+                  "fechaInicio": "2025-02-01",
+                  "fechaFin": "2027-09-23",
+                  "locked": true
+                }
+              ],
+              "locked": true
+            }
+          ],
+          "locked": true
+        }
+      ]
+    }
+  ]
+}
