@@ -23,7 +23,7 @@
 <body>
 
   <div class="app">
-    <!-- Sidebar -->
+<!-- Sidebar estilo iPadOS / Apple HIG -->
     <aside class="sidebar">
       <div class="brand">
         <div class="logo-mark" id="logo-initials">I</div>
@@ -34,35 +34,49 @@
       </div>
 
       <div class="search-box">
-        <i class="fa-solid fa-magnifying-glass" style="font-size:.78rem"></i>
-        <input id="global-search" placeholder="Buscar">
+        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+        <input id="global-search" type="search" placeholder="Buscar" autocomplete="off" spellcheck="false">
       </div>
 
-      <div class="nav-group-label">Vista</div>
-      <div class="nav-item active" data-view="objetivos">
-        <span class="ico"><i class="fa-solid fa-bullseye"></i></span> Objetivos
-      </div>
-      <div class="nav-item" data-view="programa">
-        <span class="ico"><i class="fa-solid fa-gauge-high"></i></span> Avance
-      </div>
-      <div class="nav-item" data-view="actividades">
-        <span class="ico"><i class="fa-solid fa-star"></i></span> Tareas
-      </div>
-      <div class="nav-item" data-view="calendario">
-        <span class="ico"><i class="fa-solid fa-calendar-days"></i></span> Calendario
-      </div>
-      <div class="nav-item" data-view="indicadores">
-        <span class="ico"><i class="fa-solid fa-chart-column"></i></span> Indicadores
+      <div class="nav-section">
+        <span class="nav-group-label">Vistas</span>
+        <nav class="nav-list">
+          <button class="nav-item active" data-view="objetivos">
+            <span class="ico"><i class="fa-solid fa-bullseye"></i></span>
+            <span class="nav-label">Objetivos</span>
+          </button>
+          <button class="nav-item" data-view="programa">
+            <span class="ico"><i class="fa-solid fa-chart-pie"></i></span>
+            <span class="nav-label">Avance</span>
+          </button>
+          <button class="nav-item" data-view="actividades">
+            <span class="ico"><i class="fa-solid fa-star"></i></span>
+            <span class="nav-label">Tareas</span>
+          </button>
+          <button class="nav-item" data-view="calendario">
+            <span class="ico"><i class="fa-solid fa-calendar"></i></span>
+            <span class="nav-label">Calendario</span>
+          </button>
+          <button class="nav-item" data-view="indicadores">
+            <span class="ico"><i class="fa-solid fa-table-cells"></i></span>
+            <span class="nav-label">Indicadores</span>
+          </button>
+        </nav>
       </div>
 
       <div class="sidebar-bottom">
-        <div class="theme-toggle">
-          <button id="theme-light" title="Claro"><i class="fa-solid fa-sun"></i></button>
-          <button id="theme-dark" title="Oscuro"><i class="fa-solid fa-moon"></i></button>
+        <div class="ios-segmented-control theme-segmented">
+          <button id="theme-light" class="segmented-btn" title="Modo Claro">
+            <i class="fa-solid fa-sun"></i> <span>Claro</span>
+          </button>
+          <button id="theme-dark" class="segmented-btn" title="Modo Oscuro">
+            <i class="fa-solid fa-moon"></i> <span>Oscuro</span>
+          </button>
         </div>
+
         <div class="user-card">
           <div class="user-avatar">M</div>
-          <div>
+          <div class="user-meta">
             <div class="user-name">Matías</div>
             <div class="user-role">Sesión activa</div>
           </div>
